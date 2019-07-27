@@ -1,0 +1,26 @@
+.DS_Store
+.vscode
+__pycache__
+apply/__pycache__
+apply/packageexample/__pycache__
+output
+build
+bin
+.sass-cache
+.idea
+.gradle
+out
+*.iml
+# themes
+.classpath
+.project
+.settings
+
+# ignore
+node_modules/
+.deploy_git/
+public/
+*.log
+db.json
+package-lock.json
+
