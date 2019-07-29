@@ -4,8 +4,8 @@
 
 # Site
 title: 徐伦的笔记本
-subtitle: 泥奏凯
-description: 不是很欢喜你了
+subtitle: 麻烦让一下
+description: 干省么蔫
 keywords:
 author: littlefoxtail
 language: zh-CN
@@ -26,7 +26,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: README.md
 
 # Writing
 new_post_name: :title.md # File name of new posts
